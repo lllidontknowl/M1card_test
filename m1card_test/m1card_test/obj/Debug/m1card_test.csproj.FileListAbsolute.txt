@@ -37,5 +37,5 @@ C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\m1card_test.csprojResolveAssemblyReference.cache
-C:\Users\wuken\Documents\Visual Studio 2015\Projects\m1card_test\m1card_test\obj\Debug\m1card_test.dll.mdb
-C:\Users\wuken\Documents\Visual Studio 2015\Projects\m1card_test\m1card_test\bin\Debug\m1card_test.dll.mdb
+C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\m1card_test.dll.mdb
+C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\bin\Debug\m1card_test.dll.mdb

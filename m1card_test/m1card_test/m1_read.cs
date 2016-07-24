@@ -13,11 +13,11 @@ using Android.Nfc;
 
 namespace m1card_test
 {
-    [Activity(Label = "m1_read",  Icon = "@drawable/icon", LaunchMode = Android.Content.PM.LaunchMode.SingleTop)]
+    [Activity(Label = "m1_read",  Icon = "@drawable/icon", LaunchMode = Android.Content.PM.LaunchMode.SingleTask)]
     [IntentFilter(
     new[] {NfcAdapter.ActionTechDiscovered}, 
     Categories = new[] {Intent.CategoryDefault,})]
-    //[MetaData("android.nfc.action.TECH_DISCOVERED", Resource = "@xml/tech_list")]
+    [MetaData("android.nfc.action.TECH_DISCOVERED", Resource = "@xml/tech_list")]
     public class m1_read : Activity
     {
         TextView mTV;
@@ -63,7 +63,6 @@ namespace m1card_test
         {
             base.OnResume();
             NfcManager manager = (NfcManager)GetSystemService(NfcService);
-            mTV.Text = "Resume";
             manager.DefaultAdapter.EnableForegroundDispatch(this, mPendingIntent, intentF,techLists);
         }
 
