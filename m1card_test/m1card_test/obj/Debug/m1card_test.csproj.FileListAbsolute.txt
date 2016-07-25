@@ -6,6 +6,7 @@ C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\m1card_test.pdb
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\android\bin\m1card_test.m1card_test.apk
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\res\layout\m1_read.xml
+C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\res\layout\m1_write.xml
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\res\layout\main.xml
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\res\values\strings.xml
 C:\Users\wuken\documents\visual studio 2015\Projects\m1card_test\m1card_test\obj\Debug\res\drawable\icon.png

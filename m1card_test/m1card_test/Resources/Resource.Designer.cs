@@ -66,6 +66,9 @@ namespace m1card_test
 			// aapt resource value: 0x7f060002
 			public const int MyButton = 2131099650;
 			
+			// aapt resource value: 0x7f060003
+			public const int MyButton2 = 2131099651;
+			
 			// aapt resource value: 0x7f060001
 			public const int textview = 2131099649;
 			
@@ -86,7 +89,10 @@ namespace m1card_test
 			public const int m1_read = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int m1_write = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Main = 2130903042;
 			
 			static Layout()
 			{
@@ -101,14 +107,17 @@ namespace m1card_test
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f050002
-			public const int ApplicationName = 2131034114;
+			// aapt resource value: 0x7f050003
+			public const int ApplicationName = 2131034115;
 			
-			// aapt resource value: 0x7f050001
-			public const int Back = 2131034113;
+			// aapt resource value: 0x7f050002
+			public const int Back = 2131034114;
 			
 			// aapt resource value: 0x7f050000
 			public const int Hello = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int write = 2131034113;
 			
 			static String()
 			{

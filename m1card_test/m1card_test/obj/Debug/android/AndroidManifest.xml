@@ -13,6 +13,13 @@
         <category android:name="android.intent.category.DEFAULT" />
       </intent-filter>
     </activity>
+    <activity android:icon="@drawable/icon" android:label="m1_write" android:launchMode="singleTask" android:name="md52d185231c894df0b96abdbc7966293d4.m1_write">
+      <meta-data android:name="android.nfc.action.TECH_DISCOVERED" android:resource="@xml/tech_list" />
+      <intent-filter>
+        <action android:name="android.nfc.action.TECH_DISCOVERED" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </activity>
     <activity android:icon="@drawable/icon" android:label="m1card_test" android:name="md52d185231c894df0b96abdbc7966293d4.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
